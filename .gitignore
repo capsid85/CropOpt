@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter / IPynb
+.ipynb_checkpoints
+
+# Environment & Secrets
+.env
+.env.local
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary and Lock Files
+~$*.docx
+~$*.xlsx
+*.tmp
+
+# Research papers, Word documents, empirical drafts, and drafting scratchpad
+*.docx
+*.pdf
+scratch/
+experiment_results.md
+

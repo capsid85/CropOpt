@@ -1,0 +1,11 @@
+district,state,latitude,longitude,pH,organic_carbon,phosphorus,potassium,soil_texture
+Bengaluru,Karnataka,12.9716,77.5946,6.5,0.55,22.0,240.0,Sandy Clay Loam
+Belagavi,Karnataka,15.8497,74.4977,7.2,0.70,18.0,310.0,Clay Loam
+Dharwad,Karnataka,15.4589,75.0078,7.8,0.50,15.0,350.0,Clay
+Mysuru,Karnataka,12.2958,76.6394,6.8,0.60,20.0,220.0,Sandy Loam
+Gulbarga,Karnataka,17.3297,76.8343,8.1,0.40,12.0,380.0,Clay
+Pune,Maharashtra,18.5204,73.8567,7.4,0.65,16.0,280.0,Clay Loam
+Nashik,Maharashtra,19.9975,73.7898,7.6,0.58,14.0,320.0,Loam
+Nagpur,Maharashtra,21.1458,79.0882,7.5,0.62,19.0,340.0,Clay
+Aurangabad,Maharashtra,19.8762,75.3433,7.9,0.45,13.0,360.0,Clay Loam
+Solapur,Maharashtra,17.6599,75.9064,8.2,0.38,11.0,390.0,Sandy Clay

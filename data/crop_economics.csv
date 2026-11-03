@@ -1,0 +1,15 @@
+crop,season,water_req_mm,cost_rs_ha,price_rs_qtl
+Rice,Kharif,1200,45000,2200
+Jowar,Kharif,450,20000,3200
+Maize,Kharif,500,28000,2100
+Ragi,Kharif,350,18000,3800
+Cotton,Kharif,700,55000,6600
+Soybean,Kharif,600,32000,4600
+Wheat,Rabi,400,35000,2300
+Bengal Gram,Rabi,250,25000,5400
+Jowar,Rabi,300,18000,3300
+Maize,Rabi,450,26000,2200
+Groundnut,Summer,600,40000,6400
+Green Gram,Summer,300,22000,7800
+Black Gram,Summer,300,22000,7200
+Maize,Summer,400,26000,2200
